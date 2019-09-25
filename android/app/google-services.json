@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "554179281917",
+    "firebase_url": "https://enertia-247813.firebaseio.com",
+    "project_id": "enertia-247813",
+    "storage_bucket": "enertia-247813.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554179281917:android:8953f39086e23e0b",
+        "android_client_info": {
+          "package_name": "com.enertia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554179281917-7645srl48m8pnpp3uarbtpjf0v88o3q6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.enertia",
+            "certificate_hash": "3ea4bb7425b14df5ce1a3ad2f0ffab913f7b301f"
+          }
+        },
+        {
+          "client_id": "554179281917-fgmajrk6rsv4ek9d11bfbuju6l90sect.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkZmism5J-jVWZtC9sZ85MvV9jGONsQxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554179281917-fgmajrk6rsv4ek9d11bfbuju6l90sect.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "554179281917-qr2abbubvv3ha4i5c71llldso99o6vuq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.enertia.in"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

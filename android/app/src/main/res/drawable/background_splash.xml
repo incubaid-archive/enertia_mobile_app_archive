@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+        <item
+        android:drawable="@mipmap/bg"/>
+
+    <item
+        android:width="100dp"
+        android:height="100dp"
+        android:drawable="@mipmap/logo_with_name"
+        android:gravity="center_horizontal"
+        android:top="150dp"
+        />
+    <item
+        android:width="100dp"
+        android:height="150dp"
+        android:drawable="@mipmap/loadingtext"
+        android:bottom="50dp"
+        android:gravity="center_horizontal|bottom"
+        />
+
+</layer-list>
+
+

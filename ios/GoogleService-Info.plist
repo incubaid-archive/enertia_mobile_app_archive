@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>554179281917-qr2abbubvv3ha4i5c71llldso99o6vuq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.554179281917-qr2abbubvv3ha4i5c71llldso99o6vuq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDk4ZYTqUgKfzhggAEbSajA9Xd7SJleEgE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>554179281917</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.enertia.in</string>
+	<key>PROJECT_ID</key>
+	<string>enertia-247813</string>
+	<key>STORAGE_BUCKET</key>
+	<string>enertia-247813.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:554179281917:ios:f3489427a0d9b7fe</string>
+	<key>DATABASE_URL</key>
+	<string>https://enertia-247813.firebaseio.com</string>
+</dict>
+</plist>
